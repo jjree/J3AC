@@ -1,2 +1,2 @@
 # J3AC
-J-Cubic - innovation for the future
+J-Cubac - innovation for the future
