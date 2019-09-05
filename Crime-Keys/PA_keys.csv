@@ -1,0 +1,33 @@
+﻿Code,Crime Desc.,Key
+400,Aggravated Assault Firearm,Violence
+400,Aggravated Assault No Firearm,Violence
+2600,All Other Offenses,Violence
+900,Arson,Arson
+500,Burglary Non-Residential,Burglary
+500,Burglary Residential,Burglary
+2400,Disorderly Conduct,Other
+2100,DRIVING UNDER THE INFLUENCE,VAL
+1200,Embezzlement,Fraud
+1000,Forgery and Counterfeiting,Fraud
+1100,Fraud,Fraud
+1900,Gambling Violations,Other
+100,Homicide - Criminal,Killing
+100,Homicide - Gross Negligence,Killing
+2200,Liquor Law Violations,Oh
+700,Motor Vehicle Theft,Auto-Theft
+1800,Narcotic / Drug Law Violations,Drugs
+2000,Offenses Against Family and Children,Other
+800,Other Assaults,Violence
+1700,Other Sex Offenses (Not Commercialized),Other
+1600,Prostitution and Commercialized Vice,Other
+2300,Public Drunkenness,Other
+200,Rape,Violence
+1300,Receiving Stolen Property,Burglary
+700,Recovered Stolen Motor Vehicle,Burglary
+300,Robbery Firearm,Robbery
+300,Robbery No Firearm,Robbery
+600,Theft from Vehicle,Burglary
+600,Thefts,Burglary
+2500,Vagrancy/Loitering,Other
+1400,Vandalism/Criminal Mischief,Vandalism
+1500,Weapon Violations,Other

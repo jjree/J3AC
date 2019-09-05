@@ -1,0 +1,223 @@
+﻿Code,Crime Desc.,Key
+402,Aggravated Assault,Violence
+403,Aggravated Assault,Violence
+404,Aggravated Assault,Violence
+413,Aggravated Assault,Violence
+423,Aggravated Assault,Violence
+432,Aggravated Assault,Violence
+3122,Aircraft,Other
+900,Arson,Arson
+3302,Assembly or Gathering Violations,Other
+3303,Assembly or Gathering Violations,Other
+3304,Assembly or Gathering Violations,Other
+3305,Assembly or Gathering Violations,Other
+706,Auto Theft,Auto-Theft
+714,Auto Theft,Auto-Theft
+724,Auto Theft,Auto-Theft
+727,Auto Theft,Auto-Theft
+770,Auto Theft,Auto-Theft
+735,Auto Theft Recovery,Auto-Theft
+2662,Ballistics,Other
+2672,Biological Threat,Other
+2648,Bomb Hoax,Other
+527,Burglary - No Property Taken,Burglary
+547,Burglary - No Property Taken,Burglary
+530,Commercial Burglary,Burglary
+540,Commercial Burglary,Burglary
+541,Commercial Burglary,Burglary
+542,Commercial Burglary,Burglary
+1106,Confidence Games,Fraud
+1001,Counterfeiting,Fraud
+1002,Counterfeiting,Fraud
+2670,Criminal Harassment,Verbal
+2401,Disorderly Conduct,Other
+2403,Disorderly Conduct,Other
+2405,Disorderly Conduct,Other
+2407,Disorderly Conduct,Other
+1805,Drug Violation,Drugs
+1806,Drug Violation,Drugs
+1807,Drug Violation,Drugs
+1810,Drug Violation,Drugs
+1815,Drug Violation,Drugs
+1825,Drug Violation,Drugs
+1830,Drug Violation,Drugs
+1831,Drug Violation,Drugs
+1832,Drug Violation,Drugs
+1841,Drug Violation,Drugs
+1842,Drug Violation,Drugs
+1843,Drug Violation,Drugs
+1844,Drug Violation,Drugs
+1845,Drug Violation,Drugs
+1846,Drug Violation,Drugs
+1847,Drug Violation,Drugs
+1848,Drug Violation,Drugs
+1849,Drug Violation,Drugs
+1850,Drug Violation,Drugs
+1863,Drug Violation,Drugs
+1864,Drug Violation,Drugs
+1866,Drug Violation,Drugs
+1870,Drug Violation,Drugs
+1874,Drug Violation,Drugs
+2609,Drug Violation,Drugs
+2617,Drug Violation,Drugs
+1201,Embezzlement,Fraud
+2632,Evading Fare,Other
+2618,Explosives,Other
+3123,Explosives,Other
+2612,Fire Related Reports,Other
+3108,Fire Related Reports,Other
+3160,Fire Related Reports,Other
+3119,Firearm Discovery,Other
+3203,Firearm Discovery,Other
+1501,Firearm Violations,Other
+1502,Firearm Violations,Other
+1503,Firearm Violations,Other
+1510,Firearm Violations,Other
+1102,Fraud,Fraud
+1105,Fraud,Fraud
+1107,Fraud,Fraud
+1108,Fraud,Fraud
+1109,Fraud,Fraud
+1901,Gambling,Other
+2629,Harassment,Verbal
+3116,Harbor Related Incidents,Other
+2010,HOME INVASION,Violence
+111,Homicide,Killing
+1610,HUMAN TRAFFICKING,Other
+1620,HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE,Other
+3115,Investigate Person,Investigate 
+3114,Investigate Property,Investigate 
+3112,Landlord/Tenant Disputes,Verbal
+611,Larceny,Burglary
+612,Larceny,Burglary
+613,Larceny,Burglary
+616,Larceny,Burglary
+617,Larceny,Burglary
+618,Larceny,Burglary
+619,Larceny,Burglary
+623,Larceny,Burglary
+627,Larceny,Burglary
+629,Larceny,Burglary
+633,Larceny,Burglary
+637,Larceny,Burglary
+639,Larceny,Burglary
+614,Larceny From Motor Vehicle,Burglary
+615,Larceny From Motor Vehicle,Burglary
+624,Larceny From Motor Vehicle,Burglary
+634,Larceny From Motor Vehicle,Burglary
+670,License Plate Related Incidents,Other
+3205,License Plate Related Incidents,Other
+3111,License Violation,Other
+2204,Liquor Violation,Other
+2646,Liquor Violation,Other
+112,Manslaughter,Killing
+121,Manslaughter,Killing
+123,Manslaughter,Killing
+3001,Medical Assistance,Medical
+3002,Medical Assistance,Medical
+3004,Medical Assistance,Medical
+3006,Medical Assistance,Medical
+3007,Medical Assistance,Medical
+3008,Medical Assistance,Medical
+3016,Medical Assistance,Medical
+3018,Medical Assistance,Medical
+3502,Missing Person Located,Other
+3503,Missing Person Located,Other
+2642,Missing Person Reported,Other
+3501,Missing Person Reported,Other
+3801,Motor Vehicle Accident Response,M/V
+3802,Motor Vehicle Accident Response,M/V
+3803,Motor Vehicle Accident Response,M/V
+3805,Motor Vehicle Accident Response,M/V
+3807,Motor Vehicle Accident Response,M/V
+3810,Motor Vehicle Accident Response,M/V
+3811,Motor Vehicle Accident Response,M/V
+3820,Motor Vehicle Accident Response,M/V
+3821,Motor Vehicle Accident Response,M/V
+3830,Motor Vehicle Accident Response,M/V
+3831,Motor Vehicle Accident Response,M/V
+2003,Offenses Against Child / Family,Other
+2004,Offenses Against Child / Family,Other
+2005,Offenses Against Child / Family,Other
+2605,Offenses Against Child / Family,Other
+2608,Offenses Against Child / Family,Other
+2101,Operating Under the Influence,VAL
+2102,Operating Under the Influence,VAL
+1504,Other,Other
+2511,Other,Other
+2604,Other,Other
+2610,Other,Other
+2611,Other,Other
+2613,Other,Other
+2616,Other,Other
+2622,Other,Other
+2623,Other,Other
+2631,Other,Other
+2641,Other,Other
+2647,Other,Other
+2657,Other,Other
+2660,Other,Other
+2663,Other,Other
+2664,Other,Other
+2900,Other,Other
+3102,Other,Other
+3170,Other,Other
+3620,Other,Other
+3625,Other,Other
+560,Other Burglary,Burglary
+561,Other Burglary,Burglary
+562,Other Burglary,Burglary
+2628,Phone Call Complaints,Verbal
+3109,Police Service Incidents,Other
+3110,Police Service Incidents,Other
+3403,Police Service Incidents,Other
+2606,Prisoner Related Incidents,Other
+2619,Prisoner Related Incidents,Other
+2636,Prisoner Related Incidents,Other
+3029,Prisoner Related Incidents,Other
+3202,Property Found,Property
+3207,Property Found,Property
+3201,Property Lost,Property
+3208,Property Lost,Property
+3106,Property Related Damage,Property
+1601,Prostitution,Other
+1602,Prostitution,Other
+1603,Prostitution,Other
+1605,Prostitution,Other
+1300,Recovered Stolen Property,Burglary
+1302,Recovered Stolen Property,Burglary
+1304,Recovered Stolen Property,Burglary
+511,Residential Burglary,Burglary
+520,Residential Burglary,Burglary
+521,Residential Burglary,Burglary
+522,Residential Burglary,Burglary
+2006,Restraining Order Violations,Other
+2007,Restraining Order Violations,Other
+301,Robbery,Robbery
+311,Robbery,Robbery
+315,Robbery,Robbery
+334,Robbery,Robbery
+335,Robbery,Robbery
+338,Robbery,Robbery
+339,Robbery,Robbery
+349,Robbery,Robbery
+351,Robbery,Robbery
+361,Robbery,Robbery
+371,Robbery,Robbery
+381,Robbery,Robbery
+3130,Search Warrants,Warrant
+3402,Service,Other
+801,Simple Assault,Violence
+802,Simple Assault,Violence
+803,Simple Assault,Violence
+804,Simple Assault,Violence
+3410,Towed,Towed
+1402,Vandalism,Vandalism
+1415,Vandalism,Vandalism
+3301,Verbal Disputes,Verbal
+2905,Violations,Other
+2906,Violations,Other
+2907,Violations,Other
+2910,Violations,Other
+2914,Violations,Other
+3125,Warrant Arrests,Warrant
